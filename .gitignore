@@ -14,7 +14,6 @@
 /.ijwb/
 /.project
 /.settings
-/.vscode/
 .eclipse/
 .settings/
 .classpath
@@ -25,3 +24,5 @@ eclipse-*bin/
 /bazel-*
 # Bazelisk version file
 .bazelversion
+config.bat
+node_modules
